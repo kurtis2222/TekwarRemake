@@ -35,4 +35,4 @@ You might need **EDuke32 Mapster** to fix some of the original game's corrupted 
 - EDITART.EXE - texture editor and exporter - DOSBox needed
 - convert6.bat - converts **load.map** file to a newer MAP version, edit the file or rename the map file to load.map
 - convert7.bat - converts **load.map** file to a newer MAP version, edit the file or rename the map file to load.map
-- map2stl.bat - exports build engine **MAP** files to **STL** format (some faces will be flipped)
+- map2stl.bat - exports build engine **MAP** files to **STL** format - corruped maps will crash the converter (some faces will be flipped)
