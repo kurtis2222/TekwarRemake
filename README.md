@@ -14,6 +14,7 @@ I released the source because I'm discontinuing the project.
 - TekWar original DOS game
 - EDuke32 Mapster
 - Tools folder
+- Image editor/converter that can convert **PCX** (Indexed color) to other format (RGB color)
 
 ## Folders and Files
 ### Tekwar
